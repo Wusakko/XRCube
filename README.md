@@ -1,2 +1,2 @@
 # XRCube
-TBD
+TBD. Meanwhile go https://wusakko.com/
