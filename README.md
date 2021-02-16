@@ -1,2 +1,2 @@
 # XRCube
-Every reality begins from emptiness... Cut the bullshit. Code is just too messy. System process pics can be found in "Documentation" folder. Meanwhile https://wusakko.com/xrcube
+Unity project is quite empty at the moment. Meanwhile you can read and check system process pics and "OtherMaterials/Documentatio". Meanwhile, pics and videos can be found in https://wusakko.com/xrcube
