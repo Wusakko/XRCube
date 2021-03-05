@@ -10,7 +10,7 @@ It is currently possible to build for PC both SteamVR and Oculus SDK (Not Quest 
 Protoversion (XRCube v0.3) of this project can be tested as Quest standalone build (.apk): https://urly.fi/1VJY XRCube related videos and list of created realities can be found https://wusakko.com/xrcube
 
 ## (Tech) choices
-This project is open source and that's why there are no third-party assets used. As you can see from "XRCubeTechTree"-file (*1), OpenXR also be used for web developent via WebXR. I think web browsers are not currently ready for immersive XR developemnt and that's why I use Unity game-engine. Don't you play games in your browser either?
+This project is open source and that's why there are no third-party assets used. As you can see from "XRCubeTechTree"-file (*1), OpenXR also be used for web developent via WebXR. I think web browsers are not currently ready for immersive XR developemnt and that's why I use Unity game-engine. You don't play your games in browser, do you?
 
 
 
