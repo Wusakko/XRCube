@@ -7,10 +7,13 @@ This is Unity base project for XR development. Not rocket science at the moment,
 It is currently possible to build for PC both SteamVR and Oculus SDK. I tested with Oculus Quest via Oculus link. Quest standalone (apk) is not supported at the moment.
 
 ## Setup
+Here is fast instructions:
 1. Download project, 
 2. Open project with Unity 2020.2.7f1 (or atleast 2020.2.X) 
 3. Open "01Construct" scene from "Scenes"-folder
 4. Play or build!
+
+More detailed instructions are coming later and it might contain: Unity installation and device specific project setups
 
 ## Install build for the devices
 Protoversion (XRCube v0.3) of this project can be tested as Quest standalone build (.apk): https://urly.fi/1VJY 
