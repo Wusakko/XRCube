@@ -4,7 +4,7 @@
 This is Unity base project for XR development. Not rocket science at the moment, but you should check "OtherMaterials/Documentation"-folder for the future (system description pics etc.)
 
 ## Current state 
-It is currently possible to build for PC both SteamVR and Oculus SDK. I tested with Oculus Quest via Oculus link. Quest standalone (apk) is not supported at the moment.
+It is currently possible to build for PC via OpenXR (that supports SteamVR and Oculus SDK). I tested with Oculus Quest via Oculus link. Quest standalone (apk) is not supported at the moment. It is also supported to build for android devices that uses ARCore via ARfoundation.
 
 ## Setup
 Here is fast instructions:
