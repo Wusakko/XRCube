@@ -452,6 +452,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: XRRigOpenXR
       objectReference: {fileID: 0}
+    - target: {fileID: 5021078172177043162, guid: 820e2d3730762684a8b058ff34ffff7b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 820e2d3730762684a8b058ff34ffff7b, type: 3}
 --- !u!1001 &6464453435595167288
